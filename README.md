@@ -1,4 +1,5 @@
-# 💫 About Me:
+h1# Hi 👋, I'm Ash
+
 <br>🔭 I’m currently working on Minecraft plugins<br>👯 I’m looking to collaborate on Unique Minecraft projects<br>🤝 I’m looking for help with Java & plugin optimization<br>🌱 I’m currently learning Java and Spigot API<br>💬 Ask me about Minecraft servers & plugins<br><br><br>
 
 
