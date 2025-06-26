@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ash</h1>
 
-<p align="center">
+<div align="right">
+
 🔭 I’m currently working on Minecraft plugins<br>
 👯 I’m looking to collaborate on unique Minecraft projects<br>
 🤝 I’m looking for help with Java & plugin optimization<br>
 🌱 I’m currently learning Java and Spigot API<br>
 💬 Ask me about Minecraft servers & plugins
-</p>
+
+</div>
 
 ---
 
@@ -31,12 +33,12 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ash-studio&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=Ash-studio&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-studio&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ash-studio&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=Ash-studio&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-studio&theme=default&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Ash-Studio&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ash-Studio&theme=flat&no-frame=false&no-bg=false&margin-w=4)
