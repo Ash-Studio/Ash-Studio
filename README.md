@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ash</h1>
 
-<div align="right">
+<div align="left">
 
 🔭 I’m currently working on Minecraft plugins<br>
 👯 I’m looking to collaborate on unique Minecraft projects<br>
