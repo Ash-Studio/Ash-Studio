@@ -1,38 +1,47 @@
 ## Hello! 👋
 
-![GitHub profile views](https://komarev.com/ghpvc/?username=Ash-studio&&style=for-the-badge)
+![GitHub profile views](https://komarev.com/ghpvc/?username=Ash-Studio&&style=for-the-badge)
 
-Hi there! I'm Ash, a Minecraft plugin developer passionate about building immersive gameplay features and automation systems. I enjoy working with Java and backend tools, and I'm always exploring new ways to improve server-side performance and player experience.
+<hr>
 
-- I'm currently developing unique plugins for custom Minecraft SMPs like **Reality SMP** and utility plugins such as **Freeze GUIs** and **Backpack Systems**.
+<p>
+Hi there! I'm Ash, a Minecraft plugin developer passionate about building immersive gameplay features and backend automation systems. I love working with Java, backend tools, and server-side logic to bring unique ideas to life.
+</p>
 
----
+<p>
+- I'm currently developing custom plugins for **Reality SMP**, along with utilities like **Freeze GUIs** and **Backpack Systems**.
+</p>
 
-## 🌐 Socials
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Ash-Studio&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true" />
 
-[![Discord](https://img.shields.io/badge/As_h_-%238C9EFF.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/832916983045292062)
-
----
-
-## 🛠 Languages and Tools
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-%23F68A1F.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OVH](https://img.shields.io/badge/OVH-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=white)
-
----
-
-## 📈 GitHub Metrics
+<hr>
 
 ![Metrics](https://raw.githubusercontent.com/Ash-Studio/Ash-Studio/main/github-metrics.svg)
 
----
+<details>
+  <summary><h1>Skills</h1></summary>
 
-## 🏆 GitHub Trophies
+  ### Minecraft Development:
+  [![My Skills](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev)
 
-<!-- If you're using GitHub Trophies widget separately, insert it here -->
+  ### Build Tools & Servers:
+  [![My Skills](https://skillicons.dev/icons?i=maven,gradle)](https://skillicons.dev)
+
+  ### Backend & Scripting:
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,python,bash)](https://skillicons.dev)
+
+  ### Databases & Hosting:
+  [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,ovh)](https://skillicons.dev)
+
+  ### DevOps & Tools:
+  [![My Skills](https://skillicons.dev/icons?i=docker,nginx,ubuntu)](https://skillicons.dev)
+
+  ### Version Control & IDEs:
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea)](https://skillicons.dev)
+
+  ### Communication & Design:
+  [![My Skills](https://skillicons.dev/icons?i=discord,figma)](https://skillicons.dev)
+
+</details>
+
+<hr>
