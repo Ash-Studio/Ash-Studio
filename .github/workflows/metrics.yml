@@ -43,7 +43,6 @@ jobs:
           plugin_topics_limit: 15
 
           plugin_followup: yes
-          plugin_reactions: yes
           plugin_notable: yes
           plugin_notable_repositories: 3
 
@@ -51,3 +50,6 @@ jobs:
           plugin_discussions_categories_limit: 5
 
           plugin_traffic: yes
+
+          # Disable issues and PRs stats
+          plugin_followup_indepth: false
