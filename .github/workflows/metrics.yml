@@ -1,7 +1,11 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  schedule: [{ cron: "0 0 * * 0" }]
+  # Schedule updates (every hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Allow manual and push-based runs
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
 
 jobs:
   github-metrics:
@@ -9,28 +13,43 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # GitHub token (fine-grained or classic with repo access)
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Basic options
           user: Ash-Studio
           template: classic
-          base: header, repositories, activity, community, metadata
+          base: header, activity, community, repositories
+          config_display: large
           config_timezone: Asia/Kolkata
 
-          plugin_lines: yes
-          plugin_traffic: yes
-          plugin_stars: yes
-          plugin_repositories: yes
-          plugin_followup: yes
-          plugin_reactions: yes
-          plugin_gists: yes
+          # Achievements plugin (disabled like krushna06)
+          plugin_achievements: false
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: false
+          plugin_achievements_threshold: C
+
+          # Skyline (disabled)
+          plugin_skyline: no
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_skyline_year: current-year
+
+          # WakaTime (disabled unless you have a token)
+          plugin_wakatime: false
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
+
+          # Calendar and contribution graph
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_notable: yes
-          plugin_notable_repositories: 3
-          plugin_topics: yes
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
-          plugin_discussions: yes
-          plugin_discussions_categories_limit: 5
-          plugin_code: yes
-          plugin_code_lines: 12
-          plugin_code_load: 400
+
+          # Lines of code history
+          plugin_lines: yes
+          plugin_lines_delay: 30
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 2
+          plugin_lines_history_limit: 1
