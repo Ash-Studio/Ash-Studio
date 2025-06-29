@@ -2,12 +2,19 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ash-Studio&style=for-the-badge)
 
-I’m **Ash**, a Minecraft plugin developer passionate about building immersive gameplay and server-side mechanics.  
-I work mainly with Java, Spigot/Paper APIs, and backend tools to deliver unique in-game features and automation systems.
+<hr>
 
-- 🔭 Currently working on **Reality SMP**, **Freeze GUI**, and **Backpack System** plugins  
-- 🌱 Learning advanced Java & DevOps  
-- 🎯 2025 goal: open-source private tools & write better documentation
+<p>
+Hi there! I'm Ash, a Minecraft plugin developer passionate about building immersive gameplay features and backend automation systems. I love working with Java, backend tools, and server-side logic to bring unique ideas to life.
+</p>
+
+<p>
+- I'm currently working independently.
+</p>
+
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Ash-Studio&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true" />
+
+<hr>
 
 ---
 
