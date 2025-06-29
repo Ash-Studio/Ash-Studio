@@ -9,7 +9,7 @@ Hi there! I'm Ash, a Minecraft plugin developer passionate about building immers
 </p>
 
 <p>
-- I'm currently developing custom plugins for **Reality SMP**, along with utilities like **Freeze GUIs** and **Backpack Systems**.
+- I'm currently working independently.
 </p>
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Ash-Studio&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true" />
