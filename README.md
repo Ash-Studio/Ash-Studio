@@ -1,47 +1,28 @@
-## Hello! 👋
+## Hi there! 👋
 
-![GitHub profile views](https://komarev.com/ghpvc/?username=Ash-Studio&&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Ash-Studio&style=for-the-badge)
 
-<hr>
+I’m **Ash**, a Minecraft plugin developer passionate about building immersive gameplay and server-side mechanics.  
+I work mainly with Java, Spigot/Paper APIs, and backend tools to deliver unique in-game features and automation systems.
 
-<p>
-Hi there! I'm Ash, a Minecraft plugin developer passionate about building immersive gameplay features and backend automation systems. I love working with Java, backend tools, and server-side logic to bring unique ideas to life.
-</p>
+- 🔭 Currently working on **Reality SMP**, **Freeze GUI**, and **Backpack System** plugins  
+- 🌱 Learning advanced Java & DevOps  
+- 🎯 2025 goal: open-source private tools & write better documentation
 
-<p>
-- I'm currently working independently.
-</p>
+---
 
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Ash-Studio&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true" />
-
-<hr>
+## 📊 GitHub Developer Metrics
 
 ![Metrics](https://raw.githubusercontent.com/Ash-Studio/Ash-Studio/main/github-metrics.svg)
 
-<details>
-  <summary><h1>Skills</h1></summary>
+---
 
-  ### Minecraft Development:
-  [![My Skills](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev)
+## 🛠️ Languages & Tools
 
-  ### Build Tools & Servers:
-  [![My Skills](https://skillicons.dev/icons?i=maven,gradle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,gradle,spigot,mysql,nodejs,python,bash,git,github,vscode,idea,docker,ubuntu)](https://skillicons.dev)
 
-  ### Backend & Scripting:
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,python,bash)](https://skillicons.dev)
+---
 
-  ### Databases & Hosting:
-  [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,ovh)](https://skillicons.dev)
+## 🌐 Connect with Me
 
-  ### DevOps & Tools:
-  [![My Skills](https://skillicons.dev/icons?i=docker,nginx,ubuntu)](https://skillicons.dev)
-
-  ### Version Control & IDEs:
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea)](https://skillicons.dev)
-
-  ### Communication & Design:
-  [![My Skills](https://skillicons.dev/icons?i=discord,figma)](https://skillicons.dev)
-
-</details>
-
-<hr>
+[![Discord](https://img.shields.io/badge/As_h_-%238C9EFF.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/832916983045292062)
