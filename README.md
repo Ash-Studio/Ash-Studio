@@ -27,14 +27,12 @@ Hi there! I'm Ash, a Minecraft plugin developer passionate about building immers
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Metrics
 
-![](https://github-readme-stats.vercel.app/api?username=Ash-studio&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=Ash-studio&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-studio&theme=default&hide_border=false&layout=compact)
+![Metrics](https://raw.githubusercontent.com/Ash-Studio/Ash-Studio/main/github-metrics.svg)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Ash-Studio&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+<!-- If you're using GitHub Trophies widget separately, insert it here -->
