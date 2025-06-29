@@ -16,17 +16,15 @@ Hi there! I'm Ash, a Minecraft plugin developer passionate about building immers
 
 <hr>
 
----
 
-## 📊 GitHub Developer Metrics
 
 ![Metrics](https://raw.githubusercontent.com/Ash-Studio/Ash-Studio/main/github-metrics.svg)
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,maven,gradle,spigot,mysql,nodejs,python,bash,git,github,vscode,idea,docker,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,idea,mongodb,vscode)](https://skillicons.dev)
 
 ---
 
