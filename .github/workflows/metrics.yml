@@ -51,5 +51,10 @@ jobs:
 
           plugin_traffic: yes
 
-          # Disable issues and PRs stats
-          plugin_followup_indepth: false
+          plugin_people: yes
+          plugin_people_types: followers, stargazers, contributors
+          plugin_people_limit: 100
+
+          plugin_trophies: yes
+
+          plugin_streak: yes
