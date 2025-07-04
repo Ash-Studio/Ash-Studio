@@ -17,7 +17,6 @@ Hi there! I'm Ash, a Minecraft plugin developer passionate about building immers
 <hr>
 
 
-
 ![Metrics](https://raw.githubusercontent.com/Ash-Studio/Ash-Studio/main/github-metrics.svg)
 
 ---
