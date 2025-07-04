@@ -66,4 +66,6 @@ jobs:
           # Disable issues and PRs stats
           plugin_followup_indepth: false
 
-       
+          # Change output filename to bust cache
+
+          filename: github-metrics-v2.svg
