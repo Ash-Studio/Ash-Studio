@@ -15,8 +15,8 @@ Hi there! I'm Ash, a Minecraft plugin developer passionate about building immers
 
 
 
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ash-studio&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" />         
- <img align="center" width="400" src="https://nirzak-streak-stats.vercel.app/?user=ash-studio&theme=transparent&hide_border=true"/>
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Ash-Studio&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" />         
+ <img align="center" width="400" src="https://nirzak-streak-stats.vercel.app/?user=Ash-Studio&theme=transparent&hide_border=true"/>
 
 <hr>
 
